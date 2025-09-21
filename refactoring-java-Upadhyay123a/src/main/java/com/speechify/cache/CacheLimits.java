@@ -1,5 +1,5 @@
 package com.speechify.cache;
-im
+i
 
 public class CacheLimits {
     public static final int USER_CACHE_SIZE = 100;
@@ -15,6 +15,7 @@ public class CacheLimits {
         return maxItemsCount;
     }
 }
+
 
 
 
