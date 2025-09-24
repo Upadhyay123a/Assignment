@@ -1,5 +1,4 @@
 package com.speechify.cache;
-package com.speechify.cache;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
